@@ -1,1 +1,1 @@
-# pythonXLRD
+Excel okuma
